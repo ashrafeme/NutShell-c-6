@@ -28,8 +28,9 @@ namespace Chapter4 {
             */
 
             //   StandardEventPattern.PriceChangedTest();
-            LambdaExpressions.Test.MainTest();
-
+            // LambdaExpressions.Test.MainTest();
+            //LambdaExpressions.Test.Capturing_Outer_Variables();
+            LambdaExpressions.Test.Capturing_Iteration_Variables();
 
             System.Console.ReadKey();
         }
